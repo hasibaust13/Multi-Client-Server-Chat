@@ -31,4 +31,3 @@ Steps:
 18. Similarly, look up the handle() and run() in the TCPClient code. Same logic applies there. You will understand them easily if u understand the code for the server.
 
 
-IF ANY QUESTION< DO NOT HESITATE TO ASK.
